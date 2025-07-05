@@ -1,5 +1,29 @@
 # 💫 About Me:
-### 👋 Hi there! I'm Suhail Muhammed<br><br>🔭 I’m currently working on  <br>Building scalable backend systems in **Rust**, **Go** and **NestJS**, handling real-time trading and wallet infrastructure, and re-architecting large e-commerce platforms.<br><br>👯 I’m looking to collaborate on  <br>Open-source backend tools, microservices, or developer utilities in **Rust**, **Go**, or **Node.js** ecosystems.<br><br>🤝 I’m looking for help with  <br>Exploring **distributed systems**, **event-driven architecture**, and advanced **system design patterns**.<br><br>🌱 I’m currently learning  <br>- 🦀 Advanced Rust (lifetimes, macros, Actix, SeaORM)  <br>- 🐹 Go fundamentals and concurrency patterns  <br>- ⚙️ Cloud-native design with message queues and distributed caching<br><br>💬 Ask me about  <br>- Scalable backend architecture  <br>- Database transactions, queuing (BullMQ), and WebSockets  <br>- Migrating monoliths to microservices  <br>- How to make APIs fast, consistent, and maintainable<br><br>⚡ Fun fact  <br>I love reverse-engineering systems to see **how they scale** — and I often rebuild them in **Rust** for fun 😄
+### 👋 Hi there! I'm Suhail Muhammed
+
+🔭 I’m currently working on  
+Building scalable backend systems in **Rust** and **NestJS**, handling real-time trading and wallet infrastructure, and re-architecting large e-commerce platforms.
+
+👯 I’m looking to collaborate on  
+Open-source backend tools, microservices, or developer utilities in **Rust**, **Go**, or **Node.js** ecosystems.
+
+🤝 I’m looking for help with  
+Exploring **distributed systems**, **event-driven architecture**, and advanced **system design patterns**.
+
+🌱 I’m currently learning  
+- 🦀 Advanced Rust (lifetimes, macros, Actix, SeaORM)  
+- 🐹 Go fundamentals and concurrency patterns  
+- ⚙️ Cloud-native design with message queues and distributed caching
+
+💬 Ask me about  
+- Scalable backend architecture  
+- Database transactions, queuing (BullMQ), and WebSockets  
+- Migrating monoliths to microservices  
+- How to make APIs fast, consistent, and maintainable
+
+⚡ Fun fact  
+I love reverse-engineering systems to see **how they scale** — and I often rebuild them in **Rust** for fun 😄
+
 
 
 # 💻 Tech Stack:

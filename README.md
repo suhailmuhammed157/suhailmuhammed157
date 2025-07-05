@@ -1,8 +1,7 @@
-# 💫 About Me:
 ### 👋 Hi there! I'm Suhail Muhammed
 
 🔭 I’m currently working on  
-Building scalable backend systems in **Rust** and **NestJS**, handling real-time trading and wallet infrastructure, and re-architecting large e-commerce platforms.
+Building scalable backend systems in **Rust**, **Go** and **NestJS**, handling real-time trading and wallet infrastructure, and re-architecting large e-commerce platforms.
 
 👯 I’m looking to collaborate on  
 Open-source backend tools, microservices, or developer utilities in **Rust**, **Go**, or **Node.js** ecosystems.
@@ -11,13 +10,13 @@ Open-source backend tools, microservices, or developer utilities in **Rust**, **
 Exploring **distributed systems**, **event-driven architecture**, and advanced **system design patterns**.
 
 🌱 I’m currently learning  
-- 🦀 Advanced Rust (lifetimes, macros, Actix, SeaORM)  
-- 🐹 Go fundamentals and concurrency patterns  
+- 🦀 Advanced Rust (lifetimes, macros, async)  
+- 🐹 Advanced Go (concurrency patterns and low level code)  
 - ⚙️ Cloud-native design with message queues and distributed caching
 
 💬 Ask me about  
 - Scalable backend architecture  
-- Database transactions, queuing (BullMQ), and WebSockets  
+- Database transactions, queuing, WebSockets and backend security  
 - Migrating monoliths to microservices  
 - How to make APIs fast, consistent, and maintainable
 

@@ -33,6 +33,6 @@ I love reverse-engineering systems to see **how they scale** — and I often reb
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhailmuhammed157&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suhailmuhammed157&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=suhailmuhammed157)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

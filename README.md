@@ -1,38 +1,78 @@
-### 👋 Hi there! I'm Suhail Muhammed
+# 👋 Hi, I'm Suhail Muhammed
 
-🔭 I’m currently working on  
-Building scalable backend systems in **Rust**, **Go** and **NestJS**, handling real-time trading and wallet infrastructure, and re-architecting large e-commerce platforms.
+Senior Backend Engineer with 6+ years of experience building cloud-native backend systems, distributed microservices, and high-performance infrastructure using **Go**, **Rust**, **Node.js**, and **Python**.
 
-👯 I’m looking to collaborate on  
-Open-source backend tools, microservices, or developer utilities in **Rust**, **Go**, or **Node.js** ecosystems.
-
-🤝 I’m looking for help with  
-Exploring **distributed systems**, **event-driven architecture**, and advanced **system design patterns**.
-
-🌱 I’m currently learning  
-- 🦀 Advanced Rust (lifetimes, macros, async)  
-- 🐹 Advanced Go (concurrency patterns and low level code)  
-- ⚙️ Cloud-native design with message queues and distributed caching
-
-💬 Ask me about  
-- Scalable backend architecture  
-- Database transactions, queuing, WebSockets and backend security  
-- Migrating monoliths to microservices  
-- How to make APIs fast, consistent, and maintainable
-
-⚡ Fun fact  
-I love reverse-engineering systems to see **how they scale** — and I often rebuild them in **Rust** for fun 😄
-
-
-
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suhailmuhammed157&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=suhailmuhammed157&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhailmuhammed157&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy designing scalable systems, solving performance bottlenecks, and building reliable software that runs in production. Most of my recent work focuses on distributed systems, event-driven architectures, Kubernetes, observability, and AI infrastructure.
 
 ---
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=suhailmuhammed157)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Working On
+
+- Building high-performance backend services in **Go** and **Rust**
+- Distributed systems and event-driven architectures
+- AI infrastructure using **RAG**, **Model Context Protocol (MCP)**, and vector databases
+- Open-source developer tools and backend infrastructure
+
+---
+
+## 💻 Core Technologies
+
+### Languages
+Go • Rust • TypeScript (Node.js) • Python • SQL
+
+### Backend & Distributed Systems
+gRPC • Kafka • RabbitMQ • Redis • BullMQ • WebSockets • Protobuf
+
+### Cloud & Infrastructure
+Docker • Kubernetes (AKS) • Azure • AWS • GitOps • Azure DevOps
+
+### Databases
+PostgreSQL • MongoDB • Redis • Qdrant • PgBouncer
+
+### Observability
+Prometheus • Grafana • OpenTelemetry • ELK • pprof
+
+### AI
+LLMs • RAG • Ollama • Model Context Protocol (MCP)
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 High-Performance Event Processing Platform
+A production-style event platform written in Go capable of processing **100k+ events/sec**, featuring Kafka, bounded worker pools, DLQs, idempotent batch writes, and Prometheus/Grafana observability.
+
+### 🤖 MCP PostgreSQL Server
+A Rust implementation of the Model Context Protocol (MCP) enabling AI agents and LLM-powered applications to securely interact with PostgreSQL databases through a read-only interface.
+
+### 📡 Message Broadcasting Platform
+A high-throughput WebSocket broadcasting server built with Rust, Actix Web, and Tokio, designed around asynchronous and thread-safe concurrency.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Rust async ecosystem
+- Performance engineering and profiling
+- Distributed systems internals
+- Database internals
+- AI infrastructure and agent tooling
+
+---
+
+## 💬 Ask Me About
+
+- Backend Architecture
+- Distributed Systems
+- Go & Rust
+- Kubernetes
+- Event-Driven Systems
+- Performance Optimization
+- System Design
+- AI Infrastructure
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy reverse-engineering backend architectures to understand how they scale, then rebuilding them with different technologies to explore trade-offs in performance, concurrency, and reliability.

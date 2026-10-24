@@ -1,78 +1,31 @@
-# 👋 Hi, I'm Suhail Muhammed
+# Hi, I'm Suhail 👋
 
-Senior Backend Engineer with 6+ years of experience building cloud-native backend systems, distributed microservices, and high-performance infrastructure using **Go**, **Rust**, **Node.js**, and **Python**.
+Senior Backend Engineer (5+ years) building distributed systems and cloud-native backends in **Go**, **Rust**, **Python** and **TypeScript**. Lately I'm going deep on AI infrastructure.
 
-I enjoy designing scalable systems, solving performance bottlenecks, and building reliable software that runs in production. Most of my recent work focuses on distributed systems, event-driven architectures, Kubernetes, observability, and AI infrastructure.
+## Expertise
+- Distributed systems and event-driven architectures (Kafka, RabbitMQ, gRPC)
+- Microservices on Kubernetes (AKS): migrations, GitOps CI/CD, observability
+- Document-processing pipelines: OCR, IDP, email ingestion, background workers
+- Backend performance: profiling, concurrency, database tuning
+- AI infrastructure: RAG, vector search, MCP servers, LLM internals
 
----
+## Production work
+- **Document processing backend (Python/FastAPI, AKS):** ~15k IDP requests, ~10k OCR requests (Mistral) and 4-5k emails per day across 9 Zoho mailboxes. Closed source.
+- **Node.js → Go/gRPC migration (AKS):** core services moved for lower latency and better isolation. Closed source.
 
-## 🚀 What I'm Working On
+## Open-source projects
+- **[Event Processing Platform]([link](https://github.com/suhailmuhammed157/event-platform))**: Go + Kafka, bounded worker pools, DLQs, idempotent batch writes, Prometheus/Grafana. [Benchmarked at X events/sec on Y hardware]
+- **[MCP PostgreSQL Server]([link](https://github.com/suhailmuhammed157/mcp-postgres-server-rust))**: Rust MCP server with a read-only PostgreSQL interface for AI agents.
+- **[Transformer from Scratch]([link](https://github.com/suhailmuhammed157/transformer-from-scratch))**: [language/framework] implementation covering attention, training and inference.
+- **[RAG experiments]**: Qdrant + Ollama retrieval pipelines.
 
-- Building high-performance backend services in **Go** and **Rust**
-- Distributed systems and event-driven architectures
-- AI infrastructure using **RAG**, **Model Context Protocol (MCP)**, and vector databases
-- Open-source developer tools and backend infrastructure
+## Stack
+**Languages:** Go · Rust · Python · TypeScript · SQL
+**Backend:** gRPC · Kafka · RabbitMQ · Redis · WebSockets · FastAPI · NestJS
+**Infra:** Docker · Kubernetes (AKS) · Azure DevOps · GitOps
+**Data:** PostgreSQL · Redis · Qdrant · PgBouncer
+**Observability:** Prometheus · Grafana · OpenTelemetry
+**AI:** RAG · Ollama · MCP · LLMs
 
----
-
-## 💻 Core Technologies
-
-### Languages
-Go • Rust • TypeScript (Node.js) • Python • SQL
-
-### Backend & Distributed Systems
-gRPC • Kafka • RabbitMQ • Redis • BullMQ • WebSockets • Protobuf
-
-### Cloud & Infrastructure
-Docker • Kubernetes (AKS) • Azure • AWS • GitOps • Azure DevOps
-
-### Databases
-PostgreSQL • MongoDB • Redis • Qdrant • PgBouncer
-
-### Observability
-Prometheus • Grafana • OpenTelemetry • ELK • pprof
-
-### AI
-LLMs • RAG • Ollama • Model Context Protocol (MCP)
-
----
-
-## 📌 Featured Projects
-
-### 🚀 High-Performance Event Processing Platform
-A production-style event platform written in Go capable of processing **100k+ events/sec**, featuring Kafka, bounded worker pools, DLQs, idempotent batch writes, and Prometheus/Grafana observability.
-
-### 🤖 MCP PostgreSQL Server
-A Rust implementation of the Model Context Protocol (MCP) enabling AI agents and LLM-powered applications to securely interact with PostgreSQL databases through a read-only interface.
-
-### 📡 Message Broadcasting Platform
-A high-throughput WebSocket broadcasting server built with Rust, Actix Web, and Tokio, designed around asynchronous and thread-safe concurrency.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Rust async ecosystem
-- Performance engineering and profiling
-- Distributed systems internals
-- Database internals
-- AI infrastructure and agent tooling
-
----
-
-## 💬 Ask Me About
-
-- Backend Architecture
-- Distributed Systems
-- Go & Rust
-- Kubernetes
-- Event-Driven Systems
-- Performance Optimization
-- System Design
-- AI Infrastructure
-
----
-
-## ⚡ Fun Fact
-
-I enjoy reverse-engineering backend architectures to understand how they scale, then rebuilding them with different technologies to explore trade-offs in performance, concurrency, and reliability.
+## Interests
+Rust async internals · performance engineering · database internals · LLM internals · agent tooling

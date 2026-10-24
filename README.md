@@ -10,8 +10,12 @@ Senior Backend Engineer (5+ years) building distributed systems and cloud-native
 - AI infrastructure: RAG, vector search, MCP servers, LLM internals
 
 ## Production work
-- **Document processing backend (Python/FastAPI, AKS):** ~15k IDP requests, ~10k OCR requests (Mistral) and 4-5k emails per day across 9 Zoho mailboxes. Closed source.
+- **Document processing backend (Python/FastAPI, AKS):** ~15k IDP requests, ~10k OCR requests (Mistral) and 4-5k emails per day across 9 Zoho mailboxes. Background workers, PDF split/merge, external IDP calls. Replaced legacy MuleSoft flows. Closed source.
+- **Warehouse label printing (Go):** concurrent service integrating Salesforce with Zebra printers, rendering custom ZPL templates for multi-location label printing.
+- **ANPR truck tracking (containerized):** integrates ANPR cameras for automated truck identification and tracking.
+- **Data archival pipeline (Go):** extracts TBs of historical data across 800+ Salesforce entities via SOQL, with PGP encryption end to end and idempotent PostgreSQL batch inserts. Closed source.
 - **Node.js → Go/gRPC migration (AKS):** core services moved for lower latency and better isolation. Closed source.
+- **CI/CD and security automation:** multi-stage Azure DevOps pipelines deploying to AKS via GitOps, with automated security scanning and dependency patching.
 
 ## Open-source projects
 - **[Event Processing Platform]([link](https://github.com/suhailmuhammed157/event-platform))**: Go + Kafka, bounded worker pools, DLQs, idempotent batch writes, Prometheus/Grafana. [Benchmarked at X events/sec on Y hardware]

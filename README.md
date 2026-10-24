@@ -18,7 +18,7 @@ Senior Backend Engineer (5+ years) building distributed systems and cloud-native
 - **CI/CD and security automation:** multi-stage Azure DevOps pipelines deploying to AKS via GitOps, with automated security scanning and dependency patching.
 
 ## Open-source projects
-- **[Event Processing Platform]([link](https://github.com/suhailmuhammed157/event-platform))**: Go + Kafka, bounded worker pools, DLQs, idempotent batch writes, Prometheus/Grafana. [Benchmarked at X events/sec on Y hardware]
+- **[Event Processing Platform]([link](https://github.com/suhailmuhammed157/event-platform))**: Go + Kafka, bounded worker pools, DLQs, idempotent batch writes, Prometheus/Grafana.
 - **[MCP PostgreSQL Server]([link](https://github.com/suhailmuhammed157/mcp-postgres-server-rust))**: Rust MCP server with a read-only PostgreSQL interface for AI agents.
 - **[Transformer from Scratch]([link](https://github.com/suhailmuhammed157/transformer-from-scratch))**: [language/framework] implementation covering attention, training and inference.
 - **[RAG experiments]**: Qdrant + Ollama retrieval pipelines.
